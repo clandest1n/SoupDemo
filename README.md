@@ -1,7 +1,7 @@
 # [CSC 443] SoupDemo
 By: Logan Sampson and Chase Lucas
 
-##Getting Started
+## Getting Started
 Here's how to get this program running on your local machine.
 
 ### Dependencies
